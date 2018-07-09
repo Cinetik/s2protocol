@@ -61,7 +61,7 @@ There are unofficial ports of s2protocol (and the required MPQ parser) available
 
 ### Go
 
-This Go implementation is a standalone project for both the MPQ parser and the s2protocol implementation (also provide some higher level API):
+This Go implementation is a standalone project for both the MPQ parser and the s2protocol implementation (also provide some higher level API): 
 
 **Go MPQ parser:** https://github.com/icza/mpq
 
