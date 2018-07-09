@@ -12,6 +12,7 @@ Currently s2protocol can decode these structures and events:
 * message events
 * tracker events
 
+test 
 s2protocol can be used as a base-build-specific library to decode binary blobs, or it can be run as a standalone tool to pretty print information from supported replay files.
 
 Note that s2protocol does not expose game balance information or provide any kind of high level analysis of replays; it's meant
